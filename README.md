@@ -18,7 +18,8 @@ downloaded.
 
 Open Game folder "World_of_Warships" in your computer,
 
-Unzip the zip file and open.copy "banks"  into World of Warships\bin(the largest numbered folder)\res_﻿mods﻿\
+Unzip the rar file and open，then copy "banks"  into World of Warships\bin(the largest numbered folder)\res_﻿mods﻿\
+
 Run the game and open AUDIO settings.
 
 Choose "Azurlane Yukikaze Vits Ver1.X" at "Voiceover modification".
